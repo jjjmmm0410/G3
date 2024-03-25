@@ -1,2 +1,2 @@
 # G3
-### Suhyeon Cho / Seohyeon Jung / Jungmin Kim
+### Jungmin Kim / Seohyeon Jung / Suhyeon Cho
