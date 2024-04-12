@@ -12,8 +12,8 @@ Zep
 #### ✏️ Using it as an online learning space
  - Our tool we are exploring is Zep. It is a platform based on Metabus. Teachers can make an English class in a various form in virtual reality. 
  - [examples]
-1) Making an English word quiz room that students learned that day ( A more fun and interesting way to do a test on paper )                         
-➡️ It is more effective for students to review English words.
+1) Making an English class quiz room that students learned that day ( A more fun and interesting way to do a test on paper )                         
+➡️ It is more effective for students to review the class.
 2) 
 3) 
  📍 How does this tool integrate with traditional English teaching methods?
