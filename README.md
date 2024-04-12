@@ -10,8 +10,8 @@
 #### • What are the unique advantages of using this tool for English learning or teaching?
 #### • How does the tool address different learning styles or levels of English proficiency?
 #### • What are the potential challenges or limitations of using this tool in an English learning or teaching context?
-### - Students who do not have electronic devices do not participate well. => The school provides electronic devices on a joint budget.
-    - It hasn't been commercialized much. => Adapting to continuous use and changes in teaching methods.
+##### - Students who do not have electronic devices do not participate well. => The school provides electronic devices on a joint budget. 
+#####  - It hasn't been commercialized much. => Adapting to continuous use and changes in teaching methods.
 ### 24.03.26
 ### 24.04.02
 ### 24.04.09
