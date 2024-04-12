@@ -1,5 +1,5 @@
 # Group 3
-## Group member 
+### Group member 
 Jungmin Kim / Seohyeon Jung / Suhyeon Cho
 ### 1. Education target 
 Middle school students
