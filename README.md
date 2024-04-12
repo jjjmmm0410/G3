@@ -8,6 +8,7 @@
 #### - Our tool we are exploring is ZEP. It is a platform based on Metabus. Its primary function is that teachers can make an English class in a various form in virtual reality. Objectives are middle school students. Through this tool, students can prepare education based on AI.
 #### • How does this tool integrate with traditional English teaching methods?
 #### • What are the unique advantages of using this tool for English learning or teaching?
+#### - Through Zep, students can learn English together by interacting and interacting with students from English-speaking countries or other students who are learning English. In addition, students' English skills can improve through communicating and sharing opinions in English.
 #### • How does the tool address different learning styles or levels of English proficiency?
 #### - Zep can create different quiz rooms for each level and allow students to enter according to their level of difficulty. 
 #### • What are the potential challenges or limitations of using this tool in an English learning or teaching context?
