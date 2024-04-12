@@ -4,13 +4,13 @@
 ### 2. Education goal : Enhancing students' English speaking and communication skills
 ### 3. Digital Tool : Zep
 ### 4. Questions 
-#### • What digital tool are you exploring, and what is its primary function?
+• What digital tool are you exploring, and what is its primary function?
 ##### - Our tool we are exploring is ZEP. It is a platform based on Metabus. Its primary function is that teachers can make an English class in a various form in virtual reality. Objectives are middle school students. Through this tool, students can prepare education based on AI.
 
-#### • How does this tool integrate with traditional English teaching methods?
+• How does this tool integrate with traditional English teaching methods?
 ##### - In traditional way, class contents have a lot of restrictions. However, Our tool zep can increase the diversity of classes. Students make their own avatar in virtual reality, and they can participate in class proactively. 
 
-#### • What are the unique advantages of using this tool for English learning or teaching?
+ • What are the unique advantages of using this tool for English learning or teaching?
 ##### - Through Zep, students can learn English together by interacting and interacting with students from English-speaking countries or other students who are learning English. In addition, students' English skills can improve through communicating and sharing opinions in English.
 
 #### • How does the tool address different learning styles or levels of English proficiency?
