@@ -1,8 +1,12 @@
 # Group 3
-## Group member : Jungmin Kim / Seohyeon Jung / Suhyeon Cho
-### 1. Education target : Middle school students
-### 2. Education goal : Enhancing students' English speaking and communication skills
-### 3. Digital Tool : Zep
+## Group member 
+Jungmin Kim / Seohyeon Jung / Suhyeon Cho
+### 1. Education target 
+Middle school students
+### 2. Education goal 
+To prepare for future education by frequently accessing classes using the metaverse
+### 3. Digital Tool 
+Zep
 ### 4. Questions 
 📍 What digital tool are you exploring, and what is its primary function?
  - Our tool we are exploring is ZEP. It is a platform based on Metabus. Its primary function is that teachers can make an English class in a various form in virtual reality. Objectives are middle school students. Through this tool, students can prepare education based on AI.
