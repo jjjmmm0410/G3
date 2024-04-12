@@ -9,7 +9,7 @@ To prepare for future education by frequently accessing classes using the metave
 Zep
 ### 4. Questions 
 📍 What digital tool are you exploring, and what is its primary function?
- - Our tool we are exploring is ZEP. It is a platform based on Metabus. Its primary function is that teachers can make an English class in a various form in virtual reality. Objectives are middle school students. Through this tool, students can prepare education based on AI.
+ - Our tool we are exploring is Zep. It is a platform based on Metabus. Its primary function is that teachers can make an English class in a various form in virtual reality. Objectives are middle school students. Through this tool, students can prepare education based on AI.
 
 📍 How does this tool integrate with traditional English teaching methods?
  - In traditional way, class contents have a lot of restrictions. However, Our tool zep can increase the diversity of classes. Students make their own avatar in virtual reality, and they can participate in class proactively. 
