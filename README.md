@@ -1,11 +1,11 @@
-# Group 3
+#  Group 3 
 ### Group member 
 Jungmin Kim / Seohyeon Jung / Suhyeon Cho
-### 1. Education target 
+### 1. Education target 🤵‍♀️🤵
 Middle school students
-### 2. Education goal 
+### 2. Education goal 👩‍🏫
 To prepare for future education by frequently accessing classes using the metaverse
-### 3. Digital Tool 
+### 3. Digital Tool 💻
 Zep
 ### 4. Questions 
 📍 What digital tool are you exploring, and what is its primary function?
