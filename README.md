@@ -22,7 +22,7 @@ Zep
 
 📍 What are the potential challenges or limitations of using this tool in an English learning or teaching context?
  - Students who do not have electronic devices do not participate well. ➡️ The school provides electronic devices on a joint budget. 
- - It hasn't been commercialized much. ➡️ Adapting to continuous use and changes in teaching methods.
+ - It hasn't been commercialized much. ➡️ To adapt through constant exposure to metaverse education
 
 ### 24.03.26
 ### 24.04.02
