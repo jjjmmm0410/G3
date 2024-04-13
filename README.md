@@ -9,7 +9,7 @@ To prepare for future education by frequently accessing classes using the metave
 Zep
 ### 4. Questions 
  📍 What digital tool are you exploring, and what is its primary function?
-#### ✏️ Using it as an online learning space
+#### ✏️ Using it as an online learning space!
  - Our tool we are exploring is Zep. It is a platform based on Metabus. Teachers can make an English class in a various form in virtual reality
  - It is a web-based program that does not require program installation, so it can be used easily. With a cute interface, voice sharing communication is possible in a virtual space where avatars exist.
  - In the new virtual reality space, a class space is created using YouTube, images, media, and quizzes. It functions to make learning more interesting and effective by conducting classes in this space.
