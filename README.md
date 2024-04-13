@@ -1,6 +1,10 @@
  #  Group 3 
  ### Group member 
 Jungmin Kim / Seohyeon Jung / Suhyeon Cho
+ ### Rule
+Github file maker : Seohyeon Jung
+Video maker : Suhyeon Cho
+Presenter : Jungmin Kim
  ### 1. Education target 
 Middle school students
  ### 2. Education goal 👩‍🏫
