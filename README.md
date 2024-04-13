@@ -16,7 +16,11 @@ Zep
  - As the untact culture spreads after COVID-19, remote education will also increase. In this regard, Zep plays a major role in allowing students to adapt to future education methods.
 
  📍 How does this tool integrate with traditional English teaching methods?
- - In traditional way, class contents have a lot of restrictions. However, Our tool zep can increase the diversity of classes. Students make their own avatar in virtual reality, and they can participate in class proactively. 
+#### ✔️ In traditional educational methods, face-to-face classes have several limitations.
+  1. Only what the teacher has prepared in advance can teach.
+  2. Less students participate because it is a teacher-centered and subject-oriented class.
+  3. The cramming education and repeated exams will reduce students' interest and reduce their learning effects.
+
 
  📍 What are the unique advantages of using this tool for English learning or teaching?
  - Through Zep, students can learn English together by interacting and interacting with students from English-speaking countries or other students who are learning English. In addition, students' English skills can improve through communicating and sharing opinions in English.
