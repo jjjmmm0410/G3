@@ -1,7 +1,7 @@
  #  Group 3 
- ### Group member 
+ ## Group member 
 Jungmin Kim / Seohyeon Jung / Suhyeon Cho
- ### Rule
+ ## Rule
  Github file maker : Seohyeon Jung / Video maker : Suhyeon Cho / Presenter : Jungmin Kim
  ### 1. Education target 
 Middle school students
@@ -38,7 +38,11 @@ Zep ( web-based program )
  - Students who do not have electronic devices do not participate well. ➡️ The school provides electronic devices on a joint budget. 
  - It hasn't been commercialized much. ➡️ To adapt through constant exposure to metaverse education
 
-### 24.03.26
-### 24.04.02
-### 24.04.09
-### 24.04.12
+#### 24.03.26.
+#### 24.04.02.
+#### 24.04.09.
+#### 24.04.12.
+
+### Script
+
+### Video Link
