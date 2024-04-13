@@ -27,7 +27,7 @@ Zep ( web-based program )
 
 
  ### 📍 What are the unique advantages of using this tool for English learning or teaching? 
- - Zep helps students receive new education in the metaverse by allowing them to interact and take classes with students from other countries. Through Zep,students can interact with students from Enlgish-speaking countries or students who are learning Enlgish. Students can improve their Enlgish skills by talking in English with students from other countries, taking classes together, and exchanging opinions.
+ - Zep helps students receive new education in the metaverse by allowing them to interact and take classes with students from other countries. Through Zep,students can interact with students from Enlgish-speaking countries or students who are learning Enlgish. Students can improve their Enlgish skills by talking in English with students from other countries, taking classes together, and exchanging opinions. Students can have new experiences about English with various activities such as text chatting and voice conversation with other students on Zep.
 
  ### 📍 How does the tool address different learning styles or levels of English proficiency? 
  - Zep can create different quiz rooms for each level and allow students to enter according to their level of difficulty. 
