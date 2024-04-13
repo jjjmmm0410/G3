@@ -29,14 +29,14 @@ Zep ( web-based program )
 
 
  ### 📍 What are the unique advantages of using this tool for English learning or teaching? 
- - Zep helps students receive new education in the metaverse by allowing them to interact and take classes with students from other countries. Through Zep,students can interact with students from Enlgish-speaking countries or students who are learning Enlgish. Students can improve their Enlgish skills by talking in English with students from other countries, taking classes together, and exchanging opinions. Students can have new experiences about English with various activities such as text chatting and voice conversation with other students on Zep.
+ - Zep helps students receive new education in the metaverse by allowing them to interact and take classes with students from other countries. Through Zep,students can interact with students from Enlgish-speaking countries or students Increase opportunities for students to feel more interested and use the zep app by increasing the number of times they use it during classwho are learning Enlgish. Students can improve their Enlgish skills by talking in English with students from other countries, taking classes together, and exchanging opinions. Students can have new experiences about English with various activities such as text chatting and voice conversation with other students on Zep.
 
  ### 📍 How does the tool address different learning styles or levels of English proficiency? 
   - Zep can provide education considering various learning styles or levels of English. Educators can create quiz rooms and classrooms on Zep according to the styles or levels of students and use them to conduct classes and provide assignments. Students can conveniently take additional classes and review in the metaverse, considering their styles or levels.
 
  ### 📍 What are the potential challenges or limitations of using this tool in an English learning or teaching context? 
- - Students who do not have electronic devices do not participate well. ➡️ The school provides electronic devices on a joint budget. 
- - It hasn't been commercialized much. ➡️ To adapt through constant exposure to metaverse education
+ - Students who do not have electronic devices do not participate well. ➡️ The school provides electronic devices on a joint budget. After preparing a certain number of electronic devices per class, lend them to students who do not have individual electronic devices.
+ - It hasn't been commercialized much. ➡️ To adapt through constant exposure to metaverse education. Increase opportunities for students to feel more interested and use the zep app by increasing the number of times they use it during class.
 
 #### 24.03.26.
 #### 24.04.02.
