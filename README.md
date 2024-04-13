@@ -20,6 +20,10 @@ Zep ( web-based program )
   1. Only what the teacher has prepared in advance can teach.
   2. Less students participate because it is a teacher-centered and subject-oriented class.
   3. The cramming education and repeated exams will reduce students' interest and reduce their learning effects.
+#### ✔️🙆 Zep complements these limitations.
+  1. Professors can immediately create new class content in a virtual space
+  2. Classes that can increase the participation of each student, such as OX quizzes and pictures in a virtual space, are possible.
+  3. Tests are conducted to evaluate students' understanding, but interest and learning effects are increased through tests through various contents of Zep.
 
 
  📍 What are the unique advantages of using this tool for English learning or teaching?
