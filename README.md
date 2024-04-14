@@ -38,11 +38,12 @@ Zep ( web-based program )
  - Students who do not have electronic devices do not participate well. ➡️ The school provides electronic devices on a joint budget. After preparing a certain number of electronic devices per class, lend them to students who do not have individual electronic devices.
  - It hasn't been commercialized much. ➡️ To adapt through constant exposure to metaverse education. Increase opportunities for students to feel more interested and use the zep app by increasing the number of times they use it during class.
 
-#### 24.03.26.
-#### 24.04.02.
-#### 24.04.09.
-#### 24.04.12.
+ ### Plan
+  - 24.03.26.
+  - 24.04.02.
+  - 24.04.09.
+  - 24.04.12.
 
-### Script
+ ## Script
 
-### Video Link : 
+ ## Video Link : 
