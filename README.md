@@ -8,7 +8,7 @@ Middle school students
  ## 2. Education goal 👩‍🏫
 To prepare for future education by frequently accessing classes using the metaverse
  ## 3. Digital Tool 💻
-Zep ( web-based program )
+ ### Zep ( web-based program )
  ## 4. Questions 
  ### 📍 What digital tool are you exploring, and what is its primary function? 
  #### ✏️ Using it as an online learning space!
