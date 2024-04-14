@@ -3,13 +3,13 @@
 Jungmin Kim / Seohyeon Jung / Suhyeon Cho
  ## Rule
  Github file maker : Seohyeon Jung / Video maker : Suhyeon Cho / Presenter : Jungmin Kim
- ### 1. Education target 
+ ## 1. Education target 
 Middle school students
- ### 2. Education goal 👩‍🏫
+ ## 2. Education goal 👩‍🏫
 To prepare for future education by frequently accessing classes using the metaverse
- ### 3. Digital Tool 💻
+ ## 3. Digital Tool 💻
 Zep ( web-based program )
- ### 4. Questions 
+ ## 4. Questions 
  ### 📍 What digital tool are you exploring, and what is its primary function? 
  #### ✏️ Using it as an online learning space!
  - Our tool we are exploring is Zep. It is a platform based on Metabus. Teachers can make an English class in a various form in virtual reality
@@ -45,4 +45,4 @@ Zep ( web-based program )
 
 ### Script
 
-### Video Link
+### Video Link : 
