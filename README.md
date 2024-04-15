@@ -2,7 +2,9 @@
  ## Group member 
 Jungmin Kim / Seohyeon Jung / Suhyeon Cho
  ## Rule
- Github file maker : Seohyeon Jung / Video maker : Suhyeon Cho / Presenter : Jungmin Kim
+ - Github file maker : Seohyeon Jung 
+ - Video maker : Suhyeon Cho 
+ - Presenter : Jungmin Kim
  ## Plan
  
  |num|date|contents|remarks|
@@ -31,17 +33,29 @@ Zep ( web-based program )
  - As the untact culture spreads after COVID-19, remote education will also increase. In this regard, Zep plays a major role in allowing students to adapt to future education methods.
 
  ### 📍 How does this tool integrate with traditional English teaching methods? 
+ 
  #### ✔️ In traditional educational methods, face-to-face classes have several limitations.
   1. Only what the teacher has prepared in advance can teach.
   2. Less students participate because it is a teacher-centered and subject-oriented class.
   3. The cramming education and repeated exams will reduce students' interest and reduce their learning effects.
+     
  #### ✔️🙆 Zep complements these limitations.
   1. Teacher can immediately create new class content in a virtual space
   2. Classes that can increase the participation of each student, such as OX quizzes and pictures in a virtual space, are possible.
   3. Tests are conducted to evaluate students' understanding, but interest and learning effects are increased through tests through various contents of Zep.
 
- #### Example
-1. 
+ #### Example 1 - OX quiz room
+  - A survival quiz game in which participants(students) guess the quiz presented by the space manager(teacher) themselves, and if they get the correct answer, they survive.
+  - If the question is asked, students will have 20 seconds, during which time students will go to the O or X area to select the correct answer.
+  - Students who get the correct answer will remain in the OX quiz area and will automatically be moved to the review room if they fail.
+  - (picture)
+
+ #### Example 2 - Using non-face-to-face classes
+ - Teachers can conduct classes in the classroom using audio and screen sharing with students.
+ - Teachers can also show audiovisual materials through YouTube Imbad.
+
+   ![image](https://github.com/jjjmmm0410/G3/assets/130952709/4b724e4f-a103-4041-a7a2-5f7125e72f58)
+
 
  ### 📍 What are the unique advantages of using this tool for English learning or teaching? 
  - Zep helps students receive new education in the metaverse by allowing them to interact and take classes with students from other countries.
@@ -49,7 +63,7 @@ Zep ( web-based program )
  - Students can improve their Enlgish skills by talking in English with students from other countries, taking classes together, and exchanging opinions.
  - Students can have new experiences about English with various activities such as text chatting and voice conversation with other students on Zep.
    
- #### Examples - Situation 2
+ #### Example - Situation 1
    |character|script|
    |--|--|
    |Jhon|I have been to English-speaking countries such as the United States and Canada several times, but it was not easy for me to meet local students and have conversations with foreigners. |
@@ -63,20 +77,18 @@ Zep ( web-based program )
   - Educators can create quiz rooms and classrooms on Zep according to the styles or levels of students and use them to conduct classes and provide assignments.
   - Students can conveniently take additional classes and review in the metaverse, considering their styles or levels.
     
- 
- #### Examples - Situation 3
+  #### Example - Situation 2
    |character|script|
    |--|--|
    |Mary| I have a difficulty taking English classes at school. I want to do additional study or review English classes today. What should I do?|
    |Teacher| I have created the Zep classroom and quiz room. You can improve your English skills through these by joining a beginner English classroom.|
  
-   
- ### 📍 What are the potential challenges or limitations of using this tool in an English learning or teaching context? 
+  ### 📍 What are the potential challenges or limitations of using this tool in an English learning or teaching context? 
   - 🙋‍♀️ Students who do not have electronic devices do not participate well.
   -  ➡️ 👩‍💻 The school provides electronic devices on a joint budget. After preparing a certain number of electronic devices per class, lend them to students who do not have individual electronic devices.
     
   - 🙋‍♂️ It hasn't been commercialized much.
-  - ➡️ 🌍 To adapt through constant exposure to metaverse education. Increase opportunities for students to feel more interested and use the zep app by increasing the number of times they use it during class.
+  - ➡️ 🌍 To adapt through constant exposure to metaverse education. To increase opportunities for students to feel more interested and use the zep app by increasing the number of times they use it during class.
 
  
 
