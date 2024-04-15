@@ -60,9 +60,6 @@ Zep ( web-based program )
 
  
 
- ### OX Quiz 
- - When the game starts, all participants (students) move to a specific quiz area in the virtual space.
-
 
  
 
