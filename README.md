@@ -45,11 +45,11 @@ Zep ( web-based program )
 
  ### 📍 What are the unique advantages of using this tool for English learning or teaching? 
  - Zep helps students receive new education in the metaverse by allowing them to interact and take classes with students from other countries. Through Zep,students can interact with students from Enlgish-speaking countries or students Increase opportunities for students to feel more interested and use the zep app by increasing the number of times they use it during classwho are learning Enlgish. Students can improve their Enlgish skills by talking in English with students from other countries, taking classes together, and exchanging opinions. Students can have new experiences about English with various activities such as text chatting and voice conversation with other students on Zep.
- - Examples : There are students who want to learn English by interacting with foreign students. However, students cannot learn English simply by going abroad, such as the United States or Canada. Not only do they have few opportunities to interact and talk with foreign peers, but even when they do meet foreign peers, they are unable to interact with them for a long time and continuously. In this situation, Zep allows students to interact with foreign students in the metaverse.
+ - Examples : There is a student named John who wants to learn English by interacting with foreign students.
 
  ### 📍 How does the tool address different learning styles or levels of English proficiency? 
   - Zep can provide education considering various learning styles or levels of English. Educators can create quiz rooms and classrooms on Zep according to the styles or levels of students and use them to conduct classes and provide assignments. Students can conveniently take additional classes and review in the metaverse, considering their styles or levels.
-  - Examples : A student named Mary has difficulty taking English classes at school. In this situation, Mary can do additional study or review through the Zep classroom or quiz room created by her English teacher. Mary can improve her English skills through additional study by joining a beginner English classroom.
+  - Examples : A student named Mary has a difficulty taking English classes at school. In this situation, Mary can do additional study or review through the Zep classroom or quiz room created by her English teacher. Mary can improve her English skills through additional study by joining a beginner English classroom.
 
  ### 📍 What are the potential challenges or limitations of using this tool in an English learning or teaching context? 
   - 🙋‍♀️ Students who do not have electronic devices do not participate well.
