@@ -44,10 +44,10 @@ Zep ( web-based program )
  ### Plan
  |Week|date|contents|remarks|
  |--|--|--|--|
- |1 |24.03.26.|We talked about the target of education and digital tool we will using in our class.|target is elementary school student and our digital tools are chatGPT and eleven labs.|
- |2 |24.04.02.|We discussed how to proceed with the class using the digital tools we set.||
- |3 |24.04.09.|||
- |4 |24.04.12.|||
+ |1 |24.03.26.|We talked about the target of education and digital tool we will using in our class.|Target is elementary school student and our digital tools are chatGPT and eleven labs.|
+ |2 |24.04.02.|We discussed how to proceed with the class using the digital tools we set.|Draw a four-cut cartoon using ChatGPT, and fill in the English speech bubble that matches it. listening activities are conducted through Eleven Labs.|
+ |3 |24.04.09.|We completely modified the educational target and digital tools.|elementary school student ➡️ middle school student / chatGPT, eleven labs ➡️ Zep |
+ |4 |24.04.12.|We discussed how to proceed with the class using Zep.|We chose a teaching method that increases students' participation by conducting online using the metaverse.|
 
  ## Script
  
