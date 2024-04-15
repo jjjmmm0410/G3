@@ -42,10 +42,12 @@ Zep ( web-based program )
   - ➡️ 🌍 To adapt through constant exposure to metaverse education. Increase opportunities for students to feel more interested and use the zep app by increasing the number of times they use it during class.
 
  ### Plan
-  - 24.03.26.
-  - 24.04.02.
-  - 24.04.09.
-  - 24.04.12.
+ |Week|date|contents|remarks|
+ |--|--|--|--|
+ |24.03.26.||||
+ |24.04.02.||||
+ |24.04.09.||||
+ |24.04.12.||||
 
  ## Script
  
