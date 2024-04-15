@@ -27,7 +27,7 @@ Zep ( web-based program )
  ## 4. Questions 
  ### 📍 What digital tool are you exploring, and what is its primary function? 
  #### ✏️ Using it as an online learning space!
- - Our tool we are exploring is Zep. It is a platform based on Metaverse. Teachers can make an English class in a various form in virtual reality
+ - Our tool we are exploring is Zep. It is a platform based on Metaverse. Teachers can make an English class in a various form in virtual reality.
  - It is a web-based program that does not require program installation, so it can be used easily. With a cute interface, voice sharing communication is possible in a virtual space where avatars exist.
  - In the new virtual reality space, a class space is created using YouTube, images, media, and quizzes. It functions to make learning more interesting and effective by conducting classes in this space.
  - As the untact culture spreads after COVID-19, remote education will also increase. In this regard, Zep plays a major role in allowing students to adapt to future education methods.
@@ -81,11 +81,11 @@ Zep ( web-based program )
  #### Example - Situation 1 🌐
    |character|script|
    |--|--|
-   |Jhon|I have been to English-speaking countries such as the United States and Canada several times, but it was not easy for me to meet local students and have conversations with foreigners. |
+   |John|I have been to English-speaking countries such as the United States and Canada several times, but it was not easy for me to meet local students and have conversations with foreigners. |
    |Teacher|You can interact throngh Zep!|
-   |Jhon|What should I do?|
+   |John|What should I do?|
    |Teacher|I have already created international classrooms and quiz rooms. You can interact and talk with friends from other countries. |
-   |Jhon|Oh! That's what I want. I'm so happy that I can improve English skills with friends from English-speaking countries in the metaverse.|
+   |John|Oh! That's what I want. I'm so happy that I can improve English skills with friends from English-speaking countries in the metaverse.|
    
  ### 📍 How does the tool address different learning styles or levels of English proficiency? 
   - Zep can provide education considering various learning styles or levels of English.
