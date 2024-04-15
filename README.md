@@ -3,12 +3,25 @@
 Jungmin Kim / Seohyeon Jung / Suhyeon Cho
  ## Rule
  Github file maker : Seohyeon Jung / Video maker : Suhyeon Cho / Presenter : Jungmin Kim
+ ## Plan
+ 
+ |Week|date|contents|remarks|
+ |--|--|--|--|
+ |1 |24.03.26.|We talked about the target of education and digital tool we will using in our class.|Target is elementary school student and our digital tools are chatGPT and eleven labs.|
+ |2 |24.04.02.|We discussed how to proceed with the class using the digital tools we set.|Draw a four-cut cartoon using ChatGPT, and fill in the English speech bubble that matches it. listening activities are conducted through Eleven Labs.|
+ |3 |24.04.09.|We completely modified the educational target and digital tools.|elementary school student ➡️ middle school student / chatGPT, eleven labs ➡️ Zep |
+ |4 |24.04.12.|We discussed how to proceed with the class using Zep.|We chose a teaching method that increases students' participation by conducting online using the metaverse.|
+ |5 |24.04.13.|We created a video script and produced a video introducing digital tools using steveAI.|Attach video link|
+ 
  ## 1. Education target 
 Middle school students
+
  ## 2. Education goal 👩‍🏫
 To prepare for future education by frequently accessing classes using the metaverse
+
  ## 3. Digital Tool 💻
 Zep ( web-based program )
+
  ## 4. Questions 
  ### 📍 What digital tool are you exploring, and what is its primary function? 
  #### ✏️ Using it as an online learning space!
@@ -27,6 +40,8 @@ Zep ( web-based program )
   2. Classes that can increase the participation of each student, such as OX quizzes and pictures in a virtual space, are possible.
   3. Tests are conducted to evaluate students' understanding, but interest and learning effects are increased through tests through various contents of Zep.
 
+ #### Example
+1. 
 
  ### 📍 What are the unique advantages of using this tool for English learning or teaching? 
  - Zep helps students receive new education in the metaverse by allowing them to interact and take classes with students from other countries. Through Zep,students can interact with students from Enlgish-speaking countries or students Increase opportunities for students to feel more interested and use the zep app by increasing the number of times they use it during classwho are learning Enlgish. Students can improve their Enlgish skills by talking in English with students from other countries, taking classes together, and exchanging opinions. Students can have new experiences about English with various activities such as text chatting and voice conversation with other students on Zep.
@@ -41,15 +56,12 @@ Zep ( web-based program )
   - 🙋‍♂️ It hasn't been commercialized much.
   - ➡️ 🌍 To adapt through constant exposure to metaverse education. Increase opportunities for students to feel more interested and use the zep app by increasing the number of times they use it during class.
 
- ### Plan
- |Week|date|contents|remarks|
- |--|--|--|--|
- |1 |24.03.26.|We talked about the target of education and digital tool we will using in our class.|Target is elementary school student and our digital tools are chatGPT and eleven labs.|
- |2 |24.04.02.|We discussed how to proceed with the class using the digital tools we set.|Draw a four-cut cartoon using ChatGPT, and fill in the English speech bubble that matches it. listening activities are conducted through Eleven Labs.|
- |3 |24.04.09.|We completely modified the educational target and digital tools.|elementary school student ➡️ middle school student / chatGPT, eleven labs ➡️ Zep |
- |4 |24.04.12.|We discussed how to proceed with the class using Zep.|We chose a teaching method that increases students' participation by conducting online using the metaverse.|
+ 
 
- ## Script
+ ### OX Quiz 
+ - When the game starts, all participants (students) move to a specific quiz area in the virtual space.
+
+
  
 
  ## Video Link : https://youtu.be/cb6ssWDr8OE?si=-pywyoqpPjo3mL76 
