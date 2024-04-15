@@ -105,6 +105,10 @@ Zep ( web-based program )
   - 🙋‍♂️ It hasn't been commercialized much.
   - ➡️ 🌍 To adapt through constant exposure to metaverse education. To increase opportunities for students to feel more interested and use the zep app by increasing the number of times they use it during class.
 
- 
+## Video intro script
+- Today, we will introduce our class using digital tool.
+- We want that students prepare for future education by frequently accessing classes using the metaverse.
+- What is digital tool about this goal?
+### It is Zep, a platform based on Metabus!
 
  ## Video Link : https://youtu.be/cb6ssWDr8OE?si=-pywyoqpPjo3mL76 
