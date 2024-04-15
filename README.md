@@ -8,7 +8,7 @@ Jungmin Kim / Seohyeon Jung / Suhyeon Cho
  |Week|date|contents|remarks|
  |--|--|--|--|
  |1 |24.03.26.|We talked about the target of education and digital tool we will using in our class.|Target is elementary school student and our digital tools are chatGPT and eleven labs.|
- |2 |24.04.02.|We discussed how to proceed with the class using the digital tools we set.|Draw a four-cut cartoon using ChatGPT, and fill in the English speech bubble that matches it. listening activities are conducted through Eleven Labs.|
+ |2 |24.04.02.|We discussed how to proceed with the class using the digital tools we set.|Draw a four-cut cartoon using ChatGPT, and fill in the English speech bubble that matches it. Listening activities are conducted through Eleven Labs.|
  |3 |24.04.09.|We completely modified the educational target and digital tools.|elementary school student ➡️ middle school student / chatGPT, eleven labs ➡️ Zep |
  |4 |24.04.12.|We discussed how to proceed with the class using Zep.|We chose a teaching method that increases students' participation by conducting online using the metaverse.|
  |5 |24.04.13.|We created a video script and produced a video introducing digital tools using steveAI.|Attach video link|
@@ -25,7 +25,7 @@ Zep ( web-based program )
  ## 4. Questions 
  ### 📍 What digital tool are you exploring, and what is its primary function? 
  #### ✏️ Using it as an online learning space!
- - Our tool we are exploring is Zep. It is a platform based on Metabus. Teachers can make an English class in a various form in virtual reality
+ - Our tool we are exploring is Zep. It is a platform based on Metaverse. Teachers can make an English class in a various form in virtual reality
  - It is a web-based program that does not require program installation, so it can be used easily. With a cute interface, voice sharing communication is possible in a virtual space where avatars exist.
  - In the new virtual reality space, a class space is created using YouTube, images, media, and quizzes. It functions to make learning more interesting and effective by conducting classes in this space.
  - As the untact culture spreads after COVID-19, remote education will also increase. In this regard, Zep plays a major role in allowing students to adapt to future education methods.
