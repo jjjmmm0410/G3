@@ -44,8 +44,8 @@ Zep ( web-based program )
  ### Plan
  |Week|date|contents|remarks|
  |--|--|--|--|
- |1 |24.03.26.|||
- |2 |24.04.02.|||
+ |1 |24.03.26.|We talked about the target of education and digital tool we will using in our class.|target is elementary school student and our digital tools are chatGPT and eleven labs.|
+ |2 |24.04.02.|We discussed how to proceed with the class using the digital tools we set.||
  |3 |24.04.09.|||
  |4 |24.04.12.|||
 
