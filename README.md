@@ -32,6 +32,20 @@ Zep ( web-based program )
  - In the new virtual reality space, a class space is created using YouTube, images, media, and quizzes. It functions to make learning more interesting and effective by conducting classes in this space.
  - As the untact culture spreads after COVID-19, remote education will also increase. In this regard, Zep plays a major role in allowing students to adapt to future education methods.
 
+    #### Example 1 - Using non-face-to-face classes
+ - Teachers can conduct classes in the classroom using audio and screen sharing with students.
+ - Teachers can also show audiovisual materials through YouTube Imbad.
+   
+   ![image](https://github.com/jjjmmm0410/G3/assets/130952709/4b724e4f-a103-4041-a7a2-5f7125e72f58)
+
+   #### Example 2 - Group Activity Space (Group Activity)
+ - It is a space for group activities with 5-6 students.
+ - Students can turn on the screen to study or share the screen with each other to carry out projects.
+ - The group activity space is set as a private area, allowing voice/video and chat between group members only.
+
+![image](https://github.com/jjjmmm0410/G3/assets/130952709/2f700294-7fad-411a-9c53-3537207975e9)
+
+
  ### 📍 How does this tool integrate with traditional English teaching methods? 
  
  #### ✔️ In traditional educational methods, face-to-face classes have several limitations.
@@ -48,15 +62,16 @@ Zep ( web-based program )
   - A survival quiz game in which participants(students) guess the quiz presented by the space manager(teacher) themselves, and if they get the correct answer, they survive.
   - If the question is asked, students will have 20 seconds, during which time students will go to the O or X area to select the correct answer.
   - Students who get the correct answer will remain in the OX quiz area and will automatically be moved to the review room if they fail.
-  - (picture)
 
- #### Example 2 - Using non-face-to-face classes
- - Teachers can conduct classes in the classroom using audio and screen sharing with students.
- - Teachers can also show audiovisual materials through YouTube Imbad.
+ ![image](https://github.com/jjjmmm0410/G3/assets/130952709/6d049300-2a67-4dc7-83bb-46a986540583)
 
-   ![image](https://github.com/jjjmmm0410/G3/assets/130952709/4b724e4f-a103-4041-a7a2-5f7125e72f58)
+#### Example 2 - Quiz! Golden Bell 
+ - Golden Bell is a survival quiz game in which participants(students) answer quizzes presented by teachers themselves.
+ - Unlike the ox quiz, students can enter short answer questions.
+   
+  ![image](https://github.com/jjjmmm0410/G3/assets/130952709/0352aa50-a469-42fc-a48c-bcffd3c0a4b7)
 
-
+   
  ### 📍 What are the unique advantages of using this tool for English learning or teaching? 
  - Zep helps students receive new education in the metaverse by allowing them to interact and take classes with students from other countries.
  - Through Zep,students can interact with students from Enlgish-speaking countries or students Increase opportunities for students to feel more interested and use the zep app by increasing the number of times they use it during classwho are learning Enlgish.
