@@ -8,7 +8,7 @@ Middle school students
  ## 2. Education goal 👩‍🏫
 To prepare for future education by frequently accessing classes using the metaverse
  ## 3. Digital Tool 💻
- ### Zep ( web-based program )
+Zep ( web-based program )
  ## 4. Questions 
  ### 📍 What digital tool are you exploring, and what is its primary function? 
  #### ✏️ Using it as an online learning space!
@@ -35,8 +35,11 @@ To prepare for future education by frequently accessing classes using the metave
   - Zep can provide education considering various learning styles or levels of English. Educators can create quiz rooms and classrooms on Zep according to the styles or levels of students and use them to conduct classes and provide assignments. Students can conveniently take additional classes and review in the metaverse, considering their styles or levels.
 
  ### 📍 What are the potential challenges or limitations of using this tool in an English learning or teaching context? 
- - Students who do not have electronic devices do not participate well. ➡️ The school provides electronic devices on a joint budget. After preparing a certain number of electronic devices per class, lend them to students who do not have individual electronic devices.
- - It hasn't been commercialized much. ➡️ To adapt through constant exposure to metaverse education. Increase opportunities for students to feel more interested and use the zep app by increasing the number of times they use it during class.
+  - 🙋‍♀️ Students who do not have electronic devices do not participate well.
+  -  ➡️ 👩‍💻 The school provides electronic devices on a joint budget. After preparing a certain number of electronic devices per class, lend them to students who do not have individual electronic devices.
+    
+  - 🙋‍♂️ It hasn't been commercialized much.
+  - ➡️ 🌍 To adapt through constant exposure to metaverse education. Increase opportunities for students to feel more interested and use the zep app by increasing the number of times they use it during class.
 
  ### Plan
   - 24.03.26.
@@ -45,5 +48,6 @@ To prepare for future education by frequently accessing classes using the metave
   - 24.04.12.
 
  ## Script
+ 
 
- ## Video Link : 
+ ## Video Link : https://youtu.be/cb6ssWDr8OE?si=-pywyoqpPjo3mL76 
