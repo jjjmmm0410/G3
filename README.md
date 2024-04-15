@@ -5,7 +5,7 @@ Jungmin Kim / Seohyeon Jung / Suhyeon Cho
  Github file maker : Seohyeon Jung / Video maker : Suhyeon Cho / Presenter : Jungmin Kim
  ## Plan
  
- |Week|date|contents|remarks|
+ |num|date|contents|remarks|
  |--|--|--|--|
  |1 |24.03.26.|We talked about the target of education and digital tool we will using in our class.|Target is elementary school student and our digital tools are chatGPT and eleven labs.|
  |2 |24.04.02.|We discussed how to proceed with the class using the digital tools we set.|Draw a four-cut cartoon using ChatGPT, and fill in the English speech bubble that matches it. Listening activities are conducted through Eleven Labs.|
