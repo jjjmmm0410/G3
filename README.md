@@ -5,7 +5,7 @@ Jungmin Kim / Seohyeon Jung / Suhyeon Cho
  - Github file maker : Seohyeon Jung 
  - Video maker : Suhyeon Cho 
  - Presenter : Jungmin Kim
- ## Plan
+ ## 🗓️ Plan
  
  |num|date|contents|remarks|
  |--|--|--|--|
@@ -32,13 +32,13 @@ Zep ( web-based program )
  - In the new virtual reality space, a class space is created using YouTube, images, media, and quizzes. It functions to make learning more interesting and effective by conducting classes in this space.
  - As the untact culture spreads after COVID-19, remote education will also increase. In this regard, Zep plays a major role in allowing students to adapt to future education methods.
 
-    #### Example 1 - Using non-face-to-face classes
+    #### Example 1 - 🛜 Using non-face-to-face classes
  - Teachers can conduct classes in the classroom using audio and screen sharing with students.
  - Teachers can also show audiovisual materials through YouTube Imbad.
    
    ![image](https://github.com/jjjmmm0410/G3/assets/130952709/4b724e4f-a103-4041-a7a2-5f7125e72f58)
 
-   #### Example 2 - Group Activity Space (Group Activity)
+   #### Example 2 - 👥 Group Activity Space (Group Activity)
  - It is a space for group activities with 5-6 students.
  - Students can turn on the screen to study or share the screen with each other to carry out projects.
  - The group activity space is set as a private area, allowing voice/video and chat between group members only.
@@ -58,14 +58,14 @@ Zep ( web-based program )
   2. Classes that can increase the participation of each student, such as OX quizzes and pictures in a virtual space, are possible.
   3. Tests are conducted to evaluate students' understanding, but interest and learning effects are increased through tests through various contents of Zep.
 
- #### Example 1 - OX quiz room
+ #### Example 1 - OX quiz room ⭕️❌
   - A survival quiz game in which participants(students) guess the quiz presented by the space manager(teacher) themselves, and if they get the correct answer, they survive.
   - If the question is asked, students will have 20 seconds, during which time students will go to the O or X area to select the correct answer.
   - Students who get the correct answer will remain in the OX quiz area and will automatically be moved to the review room if they fail.
 
  ![image](https://github.com/jjjmmm0410/G3/assets/130952709/6d049300-2a67-4dc7-83bb-46a986540583)
 
-#### Example 2 - Quiz! Golden Bell 
+#### Example 2 - Quiz!🔔 Golden Bell 🔔
  - Golden Bell is a survival quiz game in which participants(students) answer quizzes presented by teachers themselves.
  - Unlike the ox quiz, students can enter short answer questions.
    
@@ -78,7 +78,7 @@ Zep ( web-based program )
  - Students can improve their Enlgish skills by talking in English with students from other countries, taking classes together, and exchanging opinions.
  - Students can have new experiences about English with various activities such as text chatting and voice conversation with other students on Zep.
    
- #### Example - Situation 1
+ #### Example - Situation 1 🌐
    |character|script|
    |--|--|
    |Jhon|I have been to English-speaking countries such as the United States and Canada several times, but it was not easy for me to meet local students and have conversations with foreigners. |
@@ -92,7 +92,7 @@ Zep ( web-based program )
   - Educators can create quiz rooms and classrooms on Zep according to the styles or levels of students and use them to conduct classes and provide assignments.
   - Students can conveniently take additional classes and review in the metaverse, considering their styles or levels.
     
-  #### Example - Situation 2
+  #### Example - Situation 2 🔍
    |character|script|
    |--|--|
    |Mary| I have a difficulty taking English classes at school. I want to do additional study or review English classes today. What should I do?|
@@ -105,10 +105,10 @@ Zep ( web-based program )
   - 🙋‍♂️ It hasn't been commercialized much.
   - ➡️ 🌍 To adapt through constant exposure to metaverse education. To increase opportunities for students to feel more interested and use the zep app by increasing the number of times they use it during class.
 
-## Video intro script
+## 📝 Video intro script
 - Today, we will introduce our class using digital tool.
 - We want that students prepare for future education by frequently accessing classes using the metaverse.
 - What is digital tool about this goal?
-### It is Zep, a platform based on Metabus!
+### It is Zep, a platform based on Metabus! 💻🌐🌍
 
- ## Video Link : https://youtu.be/cb6ssWDr8OE?si=-pywyoqpPjo3mL76 
+ ##  🎥 Video Link : https://youtu.be/cb6ssWDr8OE?si=-pywyoqpPjo3mL76 
