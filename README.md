@@ -54,7 +54,7 @@ Zep ( web-based program )
   3. The cramming education and repeated exams will reduce students' interest and reduce their learning effects.
      
  #### ✔️🙆 Zep complements these limitations.
-  1. Teacher can immediately create new class content in a virtual space
+  1. Teacher can immediately create new class content in a virtual space.
   2. Classes that can increase the participation of each student, such as OX quizzes and pictures in a virtual space, are possible.
   3. Tests are conducted to evaluate students' understanding, but interest and learning effects are increased through tests through various contents of Zep.
 
@@ -109,6 +109,6 @@ Zep ( web-based program )
 - Today, we will introduce our class using digital tool.
 - We want that students prepare for future education by frequently accessing classes using the metaverse.
 - What is digital tool about this goal?
-### It is Zep, a platform based on Metabus! 💻🌐🌍
+### It is Zep, a platform based on Metaverse! 💻🌐🌍
 
  ##  🎥 Video Link : https://youtu.be/cb6ssWDr8OE?si=-pywyoqpPjo3mL76 
