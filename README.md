@@ -27,7 +27,9 @@ Zep ( web-based program )
 ![image](https://github.com/jjjmmm0410/G3/assets/130952709/675bf05f-291a-483c-9920-a9cd25e1b499)
 
 ### More about Zep
- - How to use Zep : 
+ - How to use Zep : Link that G3 plays zep (Quiz room & Classroom)
+ 
+ - More Information about Zep
 
  
  ## 4. Questions 
