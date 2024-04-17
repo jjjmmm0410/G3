@@ -30,7 +30,7 @@ Zep ( web-based program )
  - How to use Zep : Link that G3 plays zep (Quiz room & Classroom)
    ~~~~
    ~~~~
- - More Information about Zep
+ - More Information about Zep (e.g. Zep edu)
    ~~~~
    ~~~~
  
