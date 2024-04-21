@@ -32,6 +32,10 @@ Zep ( web-based program )
  - How to use Zep : Video that G3 uses Zep (Quiz room & Classroom)
 
    Quiz room Link : https://youtu.be/FdtXpsWs_sg?si=4TDsajrlEpj5EfdR
+
+   We tried solving English questions through the O,X Quiz Room. To prevent cheating, other friends (connectors) are not visible.
+   At the end, you can check your score and review any questions you got wrong.
+
    Classroom Link :
  
  - More Information about Zep (e.g. Zep edu)
