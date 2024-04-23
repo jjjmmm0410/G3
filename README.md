@@ -29,7 +29,7 @@ Zep ( web-based program )
  - Link : https://zep.us
 
 ### More about Zep
- - How to use Zep : Video that G3 uses Zep (Quiz room & Classroom)
+ - How to use Zep : Videos of G3 using Zep (Quiz room & Classroom)
 
    Quiz room Link : https://youtu.be/FdtXpsWs_sg?si=4TDsajrlEpj5EfdR
 
@@ -37,8 +37,9 @@ Zep ( web-based program )
    At the end, you can check your score and review any questions you got wrong.
 
    Classroom Link : https://youtu.be/xpwFsEPXp4Q?si=tC7VziBT0xN9M_dO
+
+   We used the classroom to look at a picture and do an activity where we put appropriate sentences into speech bubbles.
  
- - More Information about Zep (e.g. Zep edu)
  
  ## 4. Questions 
  ### 📍 What digital tool are you exploring, and what is its primary function? 
