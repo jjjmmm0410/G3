@@ -36,7 +36,7 @@ Zep ( web-based program )
    We tried solving English questions through the O,X Quiz Room. To prevent cheating, other friends (connectors) are not visible.
    At the end, you can check your score and review any questions you got wrong.
 
-   Classroom Link : https://youtu.be/xpwFsEPXp4Q?si=tC7VziBT0xN9M_dO
+   Classroom Link : https://youtu.be/UgEVLsnxcOo?si=nO654WVngcXYWO8X
 
    We used the classroom to look at a picture and do an activity where we put appropriate sentences into speech bubbles.
  
